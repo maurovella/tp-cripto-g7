@@ -156,6 +156,9 @@ tp-cripto-g7/
 - The script automates compilation and directory management for you.
 - The algorithm dynamically adjusts coefficients to avoid 256 in shadow pixels, as per the referenced paper.
 
+## Coderabbit Badge
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/maurovella/tp-cripto-g7?utm_source=oss&utm_medium=github&utm_campaign=maurovella%2Ftp-cripto-g7&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 **Authors:**  
 Grupo 7:  
 Braun, Santos; Freire, Tomás; Vella, Mauro
